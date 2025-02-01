@@ -16,7 +16,7 @@ This project is an Event Management System where authenticated users can create,
 To log in as an admin, use the following credentials:
 
 **Admin Login:**
-- **Username**: `mdshameemmia52@gmail.com`
+- **Email**: `mdshameemmia204@gmail.com`
 - **Password**: `Sh@m33m##`
 
 Use the following URL to log in as an admin:  
