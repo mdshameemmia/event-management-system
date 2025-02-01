@@ -10,6 +10,7 @@ This project is an Event Management System . Here authenticated users can create
   - Password: `Sh@m33m##`
 using this credentials you can login as admin use this url `https://ems.rocklife-bd.com`
 
+Authenticated user can see Users, Events, Attendees and Reports & API sections. Added below screeenshots for reference. 
 
 ### 1. Core Functionalities
 - **User Authentication**: Allows users to log in and register with secure password hashing for authentication.
