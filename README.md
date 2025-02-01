@@ -33,7 +33,7 @@ Once logged in, the authenticated user will have access to the following section
 Below are screenshots for reference on what you will see once you are logged in:
 
 - **Dashboard View** (screenshot of the admin/dashboard screen)
-![Description of screenshot](images/dashboard.jpg)
+![Description of screenshot](readme_images/dashboard.jpg)
 
 - **Event Management View** (screenshot showing events list and options to create/update/delete events)
 - **Attendees List** (screenshot showing registered attendees for an event)
