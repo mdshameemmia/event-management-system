@@ -28,3 +28,11 @@ Once logged in, the authenticated user will have access to the following section
 - **Attendees**
 - **Reports**
 - **API**
+
+### Screenshots
+Below are screenshots for reference on what you will see once you are logged in:
+
+- **Dashboard View** (screenshot of the admin/dashboard screen)
+- **Event Management View** (screenshot showing events list and options to create/update/delete events)
+- **Attendees List** (screenshot showing registered attendees for an event)
+- **Report Generation Section** (screenshot of generating reports)
