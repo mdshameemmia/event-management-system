@@ -32,12 +32,12 @@ Once logged in, the authenticated user will have access to the following section
 ### Screenshots
 Below are screenshots for reference on what you will see once you are logged in:
 
-- **Dashboard View** 
-![Description of dashboard]('readme_images/dashboard.jpg')
+- **Dashboard View**  
+  ![Description of dashboard](readme_images/dashboard.jpg)
 
---** when admin clicks users, it will redirect to the users view where admin can add/update/delete users**
-- **Users View**
-![Description of user list]('readme_images/users.jpg')
+- **Users View**  
+  ![Description of user list](readme_images/users.jpg)
+
 
 
 - **Event Management View** (screenshot showing events list and options to create/update/delete events)
