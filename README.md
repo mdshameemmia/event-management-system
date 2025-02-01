@@ -26,8 +26,7 @@ Once logged in, the authenticated user will have access to the following section
 - **Users**
 - **Events**
 - **Attendees**
-- **Reports**
-- **API**
+- **Reports & APIs**
 
 ### Screenshots
 Below are screenshots for reference on what you will see once you are logged in:
@@ -38,8 +37,20 @@ Below are screenshots for reference on what you will see once you are logged in:
 - **Users View**  
   ![Description of user list](readme_images/users.jpg)
 
+here admin can create/update/delete users. You can see the global field search box to search for users. When click on the name, email & mobile then it sorts the list asc or desccending. If you will insert upto 5 users then pagination will be shown to next page.
 
+- **Events View**  
+  ![Description of event list](readme_images/events.jpg)
 
-- **Event Management View** (screenshot showing events list and options to create/update/delete events)
-- **Attendees List** (screenshot showing registered attendees for an event)
-- **Report Generation Section** (screenshot of generating reports)
+here admin can create/update/delete events. You can see the global field search box here also to search for events. By clicking the column feild then it sorts the list asc or desccending. If you will insert upto 5 events then pagination will be shown to next page.
+
+- **Attendees Informations**  
+  ![Description of attendees informations](readme_images/attendees.jpg)
+
+here admin can delete attendees information. You can see the global field search box here also to search for events. By clicking the column feild then it sorts the list asc or desccending. If you will insert upto 5 events then pagination will be shown to next page.
+
+- **Attendees Informations**  
+  ![Description of Reports & API](readme_images/apis.jpg)
+
+here admin can download and get api to see attendees information with event description. 
+
