@@ -1,0 +1,17 @@
+nav{
+    background-color:#074816;
+}
+
+.navbar-brand, .login-register{
+    color: white !important;
+}
+
+fieldset{
+    border: 2px solid green;
+    padding: 5px 10px;
+}
+label{
+    margin: 0 !important;
+    padding: 0 !important;
+    font-weight: bold;
+}
