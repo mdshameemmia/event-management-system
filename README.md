@@ -43,6 +43,9 @@ here admin can create/update/delete users. You can see the global field search b
   ![Description of event list](readme_images/events.jpg)
 
 here admin can create/update/delete events. You can see the global field search box here also to search for events. By clicking the column feild then it sorts the list asc or desccending. If you will insert upto 5 events then pagination will be shown to next page.
+You can see the copy link button. When you click on the copy link button then it will copy the registration invitation link to your clipboard. Attach below the event registration file. 
+![Description of attendees informations](readme_images/registration.jpg)
+
 
 - **Attendees Informations**  
   ![Description of attendees informations](readme_images/attendees.jpg)
