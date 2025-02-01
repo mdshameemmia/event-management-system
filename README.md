@@ -2,9 +2,14 @@
 
 ## Overview
 
-This project is an Event Management System where users can authenticate, create, view, and register for events. The application is designed to be simple, efficient, and secure, with core features like user authentication, event creation and management, attendee registration, event dashboards, and CSV export for reports.
+This project is an Event Management System . Here authenticated users can create, update, view, and delete events with details such as name, description, and event date.
 
-## Features
+## Login Credentials
+- **Admin**:
+  - Username: `mdshameemmia52@gmail.com`
+  - Password: `Sh@m33m##`
+using this credentials you can login as admin use this url `https://ems.rocklife-bd.com`
+
 
 ### 1. Core Functionalities
 - **User Authentication**: Allows users to log in and register with secure password hashing for authentication.
